@@ -1,70 +1,69 @@
-**Privacy Policy**
+**개인정보 보호정책**
 
-This privacy policy applies to the 가든이 app (hereby referred to as "Application") for mobile devices that was created by bongbong (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+이 개인정보 보호 정책은 봉봉(이하 "서비스 제공자")이 무료 서비스로 만든 모바일 기기용 가든이 앱(이하 "애플리케이션")에 적용됩니다. 이 서비스는 "있는 그대로" 사용하기 위한 것입니다.
 
-**Information Collection and Use**
+**정보 수집 및 사용**
 
-The Application collects information when you download and use it. This information may include information such as
+애플리케이션은 다운로드하여 사용할 때 정보를 수집합니다. 이 정보에는 다음과 같은 정보가 포함될 수 있습니다
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+* 기기의 인터넷 프로토콜 주소(예: IP 주소)
+* 방문하는 애플리케이션의 페이지, 방문 시간 및 날짜, 해당 페이지에서 보낸 시간
+* 애플리케이션에 소요된 시간
+* 모바일 기기에서 사용하는 운영 체제
 
-The Application does not gather precise information about the location of your mobile device.
+애플리케이션은 모바일 기기의 위치에 대한 정확한 정보를 수집하지 않습니다.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+애플리케이션은 사용자의 기기 위치를 수집하여 서비스 제공업체가 사용자의 대략적인 지리적 위치를 파악하고 아래와 같은 방법으로 활용할 수 있도록 도와줍니다:
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+* 지리적 위치 서비스: 서비스 제공업체는 위치 데이터를 활용하여 개인화된 콘텐츠, 관련 추천 및 위치 기반 서비스와 같은 기능을 제공합니다.
+* 분석 및 개선: 집계 및 익명화된 위치 데이터는 서비스 제공업체가 사용자 행동을 분석하고 트렌드를 파악하며 애플리케이션의 전반적인 성능과 기능을 개선하는 데 도움이 됩니다.
+* 타사 서비스: 서비스 제공자는 주기적으로 익명화된 위치 데이터를 외부 서비스로 전송할 수 있습니다. 이러한 서비스는 애플리케이션을 개선하고 서비스를 최적화하는 데 도움이 됩니다.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+서비스 제공업체는 귀하가 제공한 정보를 사용하여 중요한 정보, 필수 공지사항 및 마케팅 프로모션을 제공할 수 있습니다.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+더 나은 경험을 위해 서비스 제공자는 애플리케이션을 사용하는 동안 특정 개인 식별 정보를 제공하도록 요청할 수 있습니다. 서비스 제공자가 요청한 정보는 이 개인정보 보호 정책에 설명된 대로 보관되어 사용됩니다.
 
-**Third Party Access**
+**타사 액세스**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+수집된 익명화된 데이터만 주기적으로 외부 서비스로 전송되어 서비스 제공자가 애플리케이션과 서비스를 개선할 수 있도록 지원합니다. 서비스 제공자는 이 개인정보 보호정책에 설명된 방식으로 사용자의 정보를 제3자와 공유할 수 있습니다.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+서비스 제공자는 사용자 제공 및 자동 수집된 정보를 공개할 수 있습니다:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* 소환장 또는 유사한 법적 절차를 준수하기 위해 법적으로 요구되는 경우;
+* 그들이 자신의 권리를 보호하고, 당신의 안전 또는 타인의 안전을 보호하며, 사기를 조사하거나 정부의 요청에 응답하기 위해 공개가 필요하다고 선의로 믿는 경우;
+* 신뢰할 수 있는 서비스 제공업체와 함께, 당사가 공개하는 정보를 독립적으로 사용하지 않으며 본 개인정보 보호정책에 명시된 규칙을 준수하기로 합의했습니다.
 
-**Opt-Out Rights**
+**옵트아웃 권한**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+애플리케이션을 제거하여 모든 정보 수집을 쉽게 중지할 수 있습니다. 모바일 기기의 일부 또는 모바일 애플리케이션 마켓플레이스 또는 네트워크를 통해 사용할 수 있는 표준 제거 프로세스를 사용할 수 있습니다.
 
-**Data Retention Policy**
+**데이터 보존 정책**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at ekdbsekdbs@gmail.com and they will respond in a reasonable time.
+서비스 제공업체는 사용자가 애플리케이션을 사용하는 동안과 그 이후에도 합리적인 기간 동안 사용자 제공 데이터를 유지합니다. 애플리케이션을 통해 제공한 사용자 제공 데이터를 삭제하려면 ekdbsekdbs@gmail.com 에서 문의하면 합리적인 시간 내에 응답할 수 있습니다.
 
-**Children**
+**어린이**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+서비스 제공자는 13세 미만의 어린이에게 의도적으로 데이터를 요청하거나 마케팅하는 데 애플리케이션을 사용하지 않습니다.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (ekdbsekdbs@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+서비스 제공자는 아동으로부터 개인 식별 정보를 고의로 수집하지 않습니다. 서비스 제공자는 모든 아동이 신청서 및/또는 서비스를 통해 개인 식별 정보를 제출하지 않도록 권장합니다. 서비스 제공자는 부모와 법적 보호자가 자녀의 인터넷 사용을 모니터링하고 자녀의 허락 없이 신청서 및/또는 서비스를 통해 개인 식별 정보를 제공하지 않도록 지시하여 이 정책을 시행하도록 권장합니다. 아동이 신청서 및/또는 서비스를 통해 서비스 제공자에게 개인 식별 정보를 제공했다고 믿을 만한 이유가 있는 경우, 필요한 조치를 취할 수 있도록 서비스 제공자(ekdbsekdbs@gmail.com )에 연락해 주세요. 또한 귀하의 국가에서 개인 식별 정보 처리에 동의하려면 최소 16세 이상이어야 합니다(일부 국가에서는 귀하의 부모 또는 보호자가 귀하를 대신하여 처리할 수 있도록 허용할 수 있습니다).
 
-**Security**
+**보안**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+서비스 제공업체는 귀하의 정보 기밀을 보호하는 데 관심이 있습니다. 서비스 제공업체는 서비스 제공업체가 처리하고 유지 관리하는 정보를 보호하기 위해 물리적, 전자적, 절차적 안전장치를 제공합니다.
 
-**Changes**
+**변경 사항**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+이 개인정보 보호정책은 어떤 이유로든 수시로 업데이트될 수 있습니다. 서비스 제공자는 이 페이지를 새로운 개인정보 보호정책으로 업데이트하여 개인정보 보호정책의 변경 사항을 알려드립니다. 지속적인 사용은 모든 변경 사항에 대한 승인으로 간주되므로 이 개인정보 보호정책에 정기적으로 문의하는 것이 좋습니다.
 
-This privacy policy is effective as of 2025-11-05
+이 개인정보 보호정책은 2025-11-05년부터 시행됩니다
 
-**Your Consent**
+**동의**
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+애플리케이션을 사용함으로써 귀하는 현재 본 개인정보 보호정책에 명시된 대로 그리고 당사가 수정한 대로 귀하의 정보 처리에 동의하는 것입니다.
 
-**Contact Us**
+**문의**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at ekdbsekdbs@gmail.com.
+애플리케이션을 사용하는 동안 개인정보 보호와 관련하여 궁금한 점이 있거나 관행에 대해 궁금한 점이 있는 경우, 서비스 제공업체(ekdbsekdbs@gmail.com )에 이메일로 문의하시기 바랍니다.
 
 * * *
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
